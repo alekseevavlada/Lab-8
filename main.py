@@ -1,5 +1,7 @@
 import dlib
 import cv2
+import os
+import numpy as np
 
 # Task 1
 im = cv2.imread('variant-1.jpg')
